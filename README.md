@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vikash574/dsa_Repository/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
