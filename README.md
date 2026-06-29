@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vikash574/dsa_Repository/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vikash574/dsa_Repository/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
