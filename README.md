@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vikash574/dsa_Repository/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vikash574/dsa_Repository/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vikash574/dsa_Repository/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -60,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vikash574/dsa_Repository/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
