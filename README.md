@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vikash574/dsa_Repository/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vikash574/dsa_Repository/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vikash574/dsa_Repository/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/vikash574/dsa_Repository/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikash574/dsa_Repository/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
