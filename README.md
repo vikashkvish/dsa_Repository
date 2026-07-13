@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vikash574/dsa_Repository/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/vikash574/dsa_Repository/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vikash574/dsa_Repository/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vikash574/dsa_Repository/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/vikash574/dsa_Repository/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vikash574/dsa_Repository/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vikash574/dsa_Repository/tree/master/0383-ransom-note) |
