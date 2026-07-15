@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikash574/dsa_Repository/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
