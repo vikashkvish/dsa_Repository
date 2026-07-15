@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vikash574/dsa_Repository/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikash574/dsa_Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vikash574/dsa_Repository/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/vikash574/dsa_Repository/tree/master/0796-rotate-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikash574/dsa_Repository/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikash574/dsa_Repository/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vikash574/dsa_Repository/tree/master/0047-permutations-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
