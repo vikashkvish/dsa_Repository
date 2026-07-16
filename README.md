@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/vikash574/dsa_Repository/tree/master/0367-valid-perfect-square) |
 ## Counting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/vikash574/dsa_Repository/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikash574/dsa_Repository/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
