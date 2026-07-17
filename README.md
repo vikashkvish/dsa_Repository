@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vikash574/dsa_Repository/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
