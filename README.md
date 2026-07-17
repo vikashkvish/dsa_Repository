@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vikash574/dsa_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/vikash574/dsa_Repository/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vikash574/dsa_Repository/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/vikash574/dsa_Repository/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
