@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/vikash574/dsa_Repository/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vikash574/dsa_Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikash574/dsa_Repository/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/vikash574/dsa_Repository/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vikash574/dsa_Repository/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/vikash574/dsa_Repository/tree/master/0177-nth-highest-salary) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vikash574/dsa_Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
