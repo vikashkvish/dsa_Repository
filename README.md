@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/vikash574/dsa_Repository/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/vikash574/dsa_Repository/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/vikash574/dsa_Repository/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/vikash574/dsa_Repository/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Number Theory
 |  |
 | ------- |
