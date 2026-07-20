@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/vikash574/dsa_Repository/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/vikash574/dsa_Repository/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/vikash574/dsa_Repository/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/vikash574/dsa_Repository/tree/master/0196-delete-duplicate-emails) |
 ## Number Theory
 |  |
 | ------- |
