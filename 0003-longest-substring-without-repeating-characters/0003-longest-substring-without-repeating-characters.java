@@ -6,9 +6,6 @@ class Solution {
         for (int left = 0, right = 0; right < s.length(); right++) {
             char ch = s.charAt(right);
             
-            // If we've seen this character before, instantly jump the left pointer 
-            // to the right of the previous occurrence (avoiding a slow while loop).
-            // We use Math.max to ensure the left pointer never moves backward.
             left = Math.max(left, indexMap[ch]);
             
             // Calculate the current window size
