@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/vikash574/dsa_Repository/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vikash574/dsa_Repository/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/vikash574/dsa_Repository/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vikash574/dsa_Repository/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vikash574/dsa_Repository/tree/master/0344-reverse-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/vikash574/dsa_Repository/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vikash574/dsa_Repository/tree/master/0231-power-of-two) |
