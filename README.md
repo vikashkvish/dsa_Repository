@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/vikash574/dsa_Repository/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vikash574/dsa_Repository/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vikash574/dsa_Repository/tree/master/0704-binary-search) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vikash574/dsa_Repository/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vikash574/dsa_Repository/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
