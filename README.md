@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vikash574/dsa_Repository/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikash574/dsa_Repository/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vikash574/dsa_Repository/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vikash574/dsa_Repository/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vikash574/dsa_Repository/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash574/dsa_Repository/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vikash574/dsa_Repository/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vikash574/dsa_Repository/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vikash574/dsa_Repository/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/vikash574/dsa_Repository/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vikash574/dsa_Repository/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vikash574/dsa_Repository/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vikash574/dsa_Repository/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vikash574/dsa_Repository/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vikash574/dsa_Repository/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
