@@ -2,10 +2,12 @@ class Solution {
     public void nextPermutation(int[] nums) {
         int n = nums.length;
         int i = n - 2;
+        //find first decreasing element (pivot)
         while(i >= 0  && nums[i] >= nums[i + 1]){
             i--;
         }
 
+        //Find the element just larger than nums[i]
         if(i >= 0){
             int j = n -1;
             while(nums[j] <= nums[i]){
@@ -13,6 +15,7 @@ class Solution {
             }
             swap(nums,i,j);
         }
+        // Reverse the suffix
         reverse(nums, i + 1, n - 1);
     }
     private static void swap(int [] nums, int i, int j){
