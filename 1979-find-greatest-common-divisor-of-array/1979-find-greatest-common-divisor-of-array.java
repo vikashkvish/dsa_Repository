@@ -1,20 +1,18 @@
 class Solution {
     public int findGCD(int[] nums) {
-       int max = Integer.MIN_VALUE;
-       int min = Integer.MAX_VALUE;
+       int smallest = Integer.MAX_VALUE;
+       int largest = Integer.MIN_VALUE;
        for(int i = 0; i<nums.length; i++){
-         max = Math.max(max, nums[i]);
-         min = Math.min(min, nums[i]);
+          smallest = Math.min(nums[i], smallest);
+          largest = Math.max(nums[i], largest);
        } 
 
-       return gcd(min, max);
-        
+       return gcd(smallest, largest);
     }
-    private int gcd(int a, int b){
+    private static int gcd(int a, int b){
         if(b==0){
             return a;
         }
-
         return gcd(b, a%b);
     }
 }
