@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/vikash574/dsa_Repository/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash574/dsa_Repository/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Prefix Sum
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vikash574/dsa_Repository/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0867-transpose-matrix) |
 ## Database
 |  |
 | ------- |
