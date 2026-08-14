@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/vikash574/dsa_Repository/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash574/dsa_Repository/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
