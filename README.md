@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vikash574/dsa_Repository/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vikash574/dsa_Repository/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/vikash574/dsa_Repository/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/vikash574/dsa_Repository/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash574/dsa_Repository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vikash574/dsa_Repository/tree/master/3658-gcd-of-odd-and-even-sums) |
