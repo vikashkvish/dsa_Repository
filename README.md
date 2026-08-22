@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/vikash574/dsa_Repository/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/vikash574/dsa_Repository/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/vikash574/dsa_Repository/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/vikash574/dsa_Repository/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vikash574/dsa_Repository/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vikash574/dsa_Repository/tree/master/0231-power-of-two) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vikash574/dsa_Repository/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/vikash574/dsa_Repository/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
