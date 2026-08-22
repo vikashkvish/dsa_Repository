@@ -4,8 +4,10 @@ class Solution {
         result.add(0);
         for(int i = 0; i<n; i++){
             int size = result.size();
+            //reverse order - right to left
             for(int j = size - 1; j>= 0; j--){
-                result.add(result.get(j)| 1 << i);
+                //Add one bit
+                result.add(result.get(j) | 1 << i);
             }
         }
         return result;
