@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/vikash574/dsa_Repository/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikash574/dsa_Repository/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0145-binary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/vikash574/dsa_Repository/tree/master/0617-merge-two-binary-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vikash574/dsa_Repository/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/vikash574/dsa_Repository/tree/master/0617-merge-two-binary-trees) |
 ## Design
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/vikash574/dsa_Repository/tree/master/0617-merge-two-binary-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
