@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vikash574/dsa_Repository/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vikash574/dsa_Repository/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vikash574/dsa_Repository/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/vikash574/dsa_Repository/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash574/dsa_Repository/tree/master/0209-minimum-size-subarray-sum) |
