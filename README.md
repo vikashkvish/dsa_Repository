@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vikash574/dsa_Repository/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vikash574/dsa_Repository/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vikash574/dsa_Repository/tree/master/0031-next-permutation) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vikash574/dsa_Repository/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/vikash574/dsa_Repository/tree/master/0061-rotate-list) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vikash574/dsa_Repository/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
