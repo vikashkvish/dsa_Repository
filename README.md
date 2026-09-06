@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vikash574/dsa_Repository/tree/master/0031-next-permutation) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/vikash574/dsa_Repository/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash574/dsa_Repository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vikash574/dsa_Repository/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/vikash574/dsa_Repository/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
