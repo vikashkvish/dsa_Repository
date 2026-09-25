@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vikash574/dsa_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vikash574/dsa_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vikash574/dsa_Repository/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vikash574/dsa_Repository/tree/master/0383-ransom-note) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikash574/dsa_Repository/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/vikash574/dsa_Repository/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vikash574/dsa_Repository/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vikash574/dsa_Repository/tree/master/0389-find-the-difference) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vikash574/dsa_Repository/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikash574/dsa_Repository/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
 ## Tree
 |  |
@@ -378,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
