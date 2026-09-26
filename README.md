@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash574/dsa_Repository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/vikash574/dsa_Repository/tree/master/3731-find-missing-elements) |
+| [4024-nearest-available-drone](https://github.com/vikash574/dsa_Repository/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -394,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/vikash574/dsa_Repository/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
