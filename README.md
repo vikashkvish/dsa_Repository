@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vikash574/dsa_Repository/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vikash574/dsa_Repository/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vikash574/dsa_Repository/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
 | [3731-find-missing-elements](https://github.com/vikash574/dsa_Repository/tree/master/3731-find-missing-elements) |
 ## String
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 ## Manacher
 |  |
 | ------- |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/vikash574/dsa_Repository/tree/master/4024-nearest-available-drone) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
