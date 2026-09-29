@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vikash574/dsa_Repository/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vikash574/dsa_Repository/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vikash574/dsa_Repository/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vikash574/dsa_Repository/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vikash574/dsa_Repository/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vikash574/dsa_Repository/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/vikash574/dsa_Repository/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/vikash574/dsa_Repository/tree/master/0171-excel-sheet-column-number) |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
