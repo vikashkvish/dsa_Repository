@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/vikash574/dsa_Repository/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/vikash574/dsa_Repository/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0867-transpose-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikash574/dsa_Repository/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vikash574/dsa_Repository/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
