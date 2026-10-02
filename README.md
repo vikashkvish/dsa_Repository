@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/vikash574/dsa_Repository/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vikash574/dsa_Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vikash574/dsa_Repository/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/vikash574/dsa_Repository/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vikash574/dsa_Repository/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vikash574/dsa_Repository/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vikash574/dsa_Repository/tree/master/0415-add-strings) |
+| [0647-palindromic-substrings](https://github.com/vikash574/dsa_Repository/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/vikash574/dsa_Repository/tree/master/0796-rotate-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vikash574/dsa_Repository/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
