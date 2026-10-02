@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/vikash574/dsa_Repository/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/vikash574/dsa_Repository/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vikash574/dsa_Repository/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vikash574/dsa_Repository/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/vikash574/dsa_Repository/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/vikash574/dsa_Repository/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vikash574/dsa_Repository/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/vikash574/dsa_Repository/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vikash574/dsa_Repository/tree/master/0205-isomorphic-strings) |
