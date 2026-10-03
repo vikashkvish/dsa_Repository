@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vikash574/dsa_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vikash574/dsa_Repository/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vikash574/dsa_Repository/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/vikash574/dsa_Repository/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikash574/dsa_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vikash574/dsa_Repository/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vikash574/dsa_Repository/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/vikash574/dsa_Repository/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vikash574/dsa_Repository/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0746-min-cost-climbing-stairs) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vikash574/dsa_Repository/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vikash574/dsa_Repository/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vikash574/dsa_Repository/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/vikash574/dsa_Repository/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/vikash574/dsa_Repository/tree/master/0617-merge-two-binary-trees) |
 ## Monotonic Stack
@@ -426,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vikash574/dsa_Repository/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vikash574/dsa_Repository/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
