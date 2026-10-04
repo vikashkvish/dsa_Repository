@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikash574/dsa_Repository/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vikash574/dsa_Repository/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/vikash574/dsa_Repository/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vikash574/dsa_Repository/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikash574/dsa_Repository/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/vikash574/dsa_Repository/tree/master/0213-house-robber-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikash574/dsa_Repository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/vikash574/dsa_Repository/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vikash574/dsa_Repository/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vikash574/dsa_Repository/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vikash574/dsa_Repository/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vikash574/dsa_Repository/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikash574/dsa_Repository/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/vikash574/dsa_Repository/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vikash574/dsa_Repository/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vikash574/dsa_Repository/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vikash574/dsa_Repository/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vikash574/dsa_Repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vikash574/dsa_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikash574/dsa_Repository/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vikash574/dsa_Repository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vikash574/dsa_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vikash574/dsa_Repository/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikash574/dsa_Repository/tree/master/0387-first-unique-character-in-a-string) |
@@ -437,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vikash574/dsa_Repository/tree/master/0322-coin-change) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vikash574/dsa_Repository/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
