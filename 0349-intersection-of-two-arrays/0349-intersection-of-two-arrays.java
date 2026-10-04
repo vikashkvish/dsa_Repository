@@ -11,7 +11,6 @@ class Solution {
                 result.add(num);
             }
         }
-        int [] ans = result.stream().mapToInt(Integer::intValue).toArray();
-        return ans;
+        return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }
