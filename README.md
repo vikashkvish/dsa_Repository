@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikash574/dsa_Repository/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vikash574/dsa_Repository/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash574/dsa_Repository/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/vikash574/dsa_Repository/tree/master/3731-find-missing-elements) |
 | [4024-nearest-available-drone](https://github.com/vikash574/dsa_Repository/tree/master/4024-nearest-available-drone) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/vikash574/dsa_Repository/tree/master/0647-palindromic-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vikash574/dsa_Repository/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vikash574/dsa_Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vikash574/dsa_Repository/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/vikash574/dsa_Repository/tree/master/0496-next-greater-element-i) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vikash574/dsa_Repository/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/vikash574/dsa_Repository/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vikash574/dsa_Repository/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/vikash574/dsa_Repository/tree/master/3731-find-missing-elements) |
 ## String
 |  |
