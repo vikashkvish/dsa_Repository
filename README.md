@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/vikash574/dsa_Repository/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/vikash574/dsa_Repository/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/vikash574/dsa_Repository/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/vikash574/dsa_Repository/tree/master/0881-boats-to-save-people) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikash574/dsa_Repository/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vikash574/dsa_Repository/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/vikash574/dsa_Repository/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/vikash574/dsa_Repository/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vikash574/dsa_Repository/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
+| [0881-boats-to-save-people](https://github.com/vikash574/dsa_Repository/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vikash574/dsa_Repository/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/vikash574/dsa_Repository/tree/master/3731-find-missing-elements) |
 ## String
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vikash574/dsa_Repository/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/vikash574/dsa_Repository/tree/master/0881-boats-to-save-people) |
 ## Manacher
 |  |
 | ------- |
@@ -450,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikash574/dsa_Repository/tree/master/0169-majority-element) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vikash574/dsa_Repository/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
