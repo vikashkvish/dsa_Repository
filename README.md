@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vikash574/dsa_Repository/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vikash574/dsa_Repository/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/vikash574/dsa_Repository/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vikash574/dsa_Repository/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0033-search-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash574/dsa_Repository/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vikash574/dsa_Repository/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/vikash574/dsa_Repository/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/vikash574/dsa_Repository/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vikash574/dsa_Repository/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/vikash574/dsa_Repository/tree/master/0061-rotate-list) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vikash574/dsa_Repository/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/vikash574/dsa_Repository/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vikash574/dsa_Repository/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vikash574/dsa_Repository/tree/master/0088-merge-sorted-array) |
