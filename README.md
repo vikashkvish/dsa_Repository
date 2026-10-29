@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vikash574/dsa_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vikash574/dsa_Repository/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vikash574/dsa_Repository/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/vikash574/dsa_Repository/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vikash574/dsa_Repository/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/vikash574/dsa_Repository/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/vikash574/dsa_Repository/tree/master/0524-longest-word-in-dictionary-through-deleting) |
